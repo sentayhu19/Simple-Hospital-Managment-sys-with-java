@@ -1,0 +1,4 @@
+cls
+com.toy.anagrams.lib
+com.toy.anagrams.ui
+exception
