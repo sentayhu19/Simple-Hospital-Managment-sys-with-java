@@ -9,7 +9,7 @@
 
 ### Prerequisites
 
-## NetBeans , Eclipse or any other 
+- NetBeans , Eclipse or any other 
 
 ### Install
 
